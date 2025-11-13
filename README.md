@@ -29,7 +29,7 @@ python -m uvicorn main:app --reload
 # 4) 브라우저 접속
 #   - API 문서: http://127.0.0.1:8000/docs
 #   - Root:     http://127.0.0.1:8000/
-
+'''
 ---
 
 ## 3. API 목록
